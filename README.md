@@ -47,4 +47,4 @@ docker run -p 4500:4500 <your tag>
 We're running locally, so can get the IP that Docker Machine set up for us with ```docker-machine ip dev2```, and then visit that :4500/docker and we'll get a response.
 
 
-This README is heavily taken from: https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application
+This Skeleton and README is taken from: https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application
