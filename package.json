@@ -1,0 +1,28 @@
+{
+  "name": "dockerTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "node test/routes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-google": "^0.7.1",
+    "supertest": "^2.0.1",
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "hbs": "^4.0.1",
+    "morgan": "^1.7.0",
+    "pm2": "^2.2.3",
+    "serve-favicon": "^2.3.2"
+  }
+}
