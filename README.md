@@ -5,7 +5,7 @@ This project is a great starting point for using Docker with an Node/Express pro
 
 The project requires installing VirtualBox and as well as docker-machine.
 
-Virtualbox can be downloaded: https://www.virtualbox.org/wiki/DownloadsÂ.
+Virtualbox can be downloaded: https://www.virtualbox.org/wiki/Downloads.
 
 
 To start you need to create a VirtualBox virtual machine and specify how many CPUs and how much disk space it should have.
